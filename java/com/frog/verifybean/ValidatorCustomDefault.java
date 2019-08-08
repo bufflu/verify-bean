@@ -5,7 +5,7 @@ package com.frog.verifybean;
  * Description: desc
  * Date: 2019/8/8 8:26
  *
- * @author guoxinlu
+ * @author bufflu
  */
 public class ValidatorCustomDefault implements ValidatorCustom {
 
